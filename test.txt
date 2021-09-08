@@ -1,5 +1,6 @@
 echo "# dangeti1989" >> README.md
 git init
+gi config --global user.email
 git add README.md
 git commit -m "first commit"
 git branch -M main
